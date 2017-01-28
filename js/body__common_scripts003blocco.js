@@ -1,0 +1,1 @@
+$("#booking").validate();$('input.date-pick').datepicker();$('input.time-pick').timepicker({minuteStep:15, showInpunts:false })
